@@ -1,0 +1,12 @@
+# node_modules는 무조건 제외 (npm install로 다시 받을 수 있음)
+node_modules/
+
+# 환경 변수
+.env
+
+# 로그 파일
+*.log
+
+# 운영체제 및 에디터 관련
+.DS_Store
+.vscode/
